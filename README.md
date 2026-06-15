@@ -1,7 +1,5 @@
 # Projeto de Inteligência Artificial
 
-# Projeto de Inteligência Artificial
-
 Projeto desenvolvido no âmbito da unidade curricular de Inteligência Artificial.
 
 O objetivo do projeto é simular a distribuição de bens essenciais por várias zonas, utilizando algoritmos de procura sobre grafos. O sistema tem em conta veículos, carga, combustível, acessibilidade das zonas, clima, prioridades e necessidades de cada região.
