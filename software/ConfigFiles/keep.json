@@ -1,0 +1,126 @@
+[
+    {
+        "id": 0,
+        "name": "Helicoptero",
+        "carga": {
+            "maxCarga": 400,
+            "cargaAtual": 400,
+            "bens": [
+                {
+                    "id": 2,
+                    "nome": "Gorro",
+                    "peso": 100,
+                    "tipo": "Roupa"
+                },
+                {
+                    "id": 0,
+                    "nome": "Leite",
+                    "peso": 100,
+                    "tipo": "Liquido"
+                },
+                {
+                    "id": 1,
+                    "nome": "Bruffen",
+                    "peso": 100,
+                    "tipo": "Medicamento"
+                },
+                {
+                    "id": 3,
+                    "nome": "Arroz",
+                    "peso": 100,
+                    "tipo": "Comida"
+                }
+            ]
+        },
+        "combustivel": {
+            "level": 150,
+            "limit": 1000,
+            "consumption": 100
+        },
+        "tipo": "ar"
+    },
+    {
+        "id": 1,
+        "name": "Camiao",
+        "carga": {
+            "maxCarga": 300,
+            "cargaAtual": 15,
+            "bens": [
+                {
+                    "id": 0,
+                    "nome": "Gorro",
+                    "peso": 5,
+                    "tipo": "Roupa"
+                },
+                {
+                    "id": 2,
+                    "nome": "Arroz",
+                    "peso": 10,
+                    "tipo": "Comida"
+                }
+            ]
+        },
+        "combustivel": {
+            "level": 200,
+            "limit": 2000,
+            "consumption": 150
+        },
+        "tipo": "terra"
+    },
+    {
+        "id": 2,
+        "name": "Carro",
+        "carga": {
+            "maxCarga": 100,
+            "cargaAtual": 50,
+            "bens": [
+                {
+                    "id": 1,
+                    "nome": "Leite",
+                    "peso": 25,
+                    "tipo": "Liquido"
+                },
+                {
+                    "id": 3,
+                    "nome": "Bruffen",
+                    "peso": 25,
+                    "tipo": "Medicamento"
+                }
+            ]
+        },
+        "combustivel": {
+            "level": 50,
+            "limit": 500,
+            "consumption": 50
+        },
+        "tipo": "terra"
+    },
+    {
+        "id": 3,
+        "name": "Barco",
+        "carga": {
+            "maxCarga": 400,
+            "cargaAtual": 200,
+            "bens": [
+                {
+                    "id": 2,
+                    "nome": "Arroz",
+                    "peso": 100,
+                    "tipo": "Comida"
+                },
+                {
+                    "id": 3,
+                    "nome": "Bruffen",
+                    "peso": 100,
+                    "tipo": "Medicamento"
+                }
+            ]
+        },
+        "combustivel": {
+            "level": 300,
+            "limit": 5000,
+            "consumption": 200
+        },
+        "tipo": "mar"
+    }
+]

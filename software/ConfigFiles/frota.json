@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Helicoptero",
+        "capacidade": 1017,
+        "combustivel": 685,
+        "tipo": "ar"
+    },
+    {
+        "id": 1,
+        "name": "Carro",
+        "capacidade": 1641,
+        "combustivel": 216,
+        "tipo": "terra"
+    },
+    {
+        "id": 2,
+        "name": "Camiao",
+        "capacidade": 221,
+        "combustivel": 547,
+        "tipo": "terra"
+    },
+    {
+        "id": 3,
+        "name": "Barco",
+        "capacidade": 318,
+        "combustivel": 826,
+        "tipo": "mar"
+    }
+]
